@@ -58,3 +58,5 @@ Compile apenas os plugins:
 bash
 Copiar código
 ant plugins
+markdown
+Copiar código
